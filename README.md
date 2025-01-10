@@ -2,6 +2,7 @@
 Complex
 
 действия с комплексными числами:
+Complex Create_complex(float real_part, int imag_part) - создает комплексное число
 Complex Sum_complex(Complex first, Complex second) - складывает число first и число second. возвращает сумму
 Complex Substraction_complex(Complex first, Complex second) - вычитает число second из числа first. возвращает разницу
 Complex Multiply_complex(Complex first, Complex second) - умножает число first и число second. возвращает произведение
